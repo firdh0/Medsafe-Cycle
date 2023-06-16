@@ -1,0 +1,18 @@
+runtime: python311
+
+instance_class: F4_1G
+
+service: default
+
+entrypoint: gunicorn wsgi:application
+
+handlers:
+
+- url: /.*
+  script: auto
+
+env_variables:
+  CREDENTIALS: 'medsafe-cycle-api-ml.json'
+  BUCKET_NAME: 'medsafe-cycle-ml'
+  MODEL_PATH: 'capstone.h5'
+  FLASK_ENV: 'production'

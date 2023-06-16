@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "medsafe-cycle",
+  "private_key_id": "e43c212c2be344106b5c29840f60872741cf45ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXvDJpad90WGEb\nCyxNIKNeQqG7i6YCPzavudYZkV2k71JWI11Svdp9UKxJFWiuiR3IvewCVkzktAgW\nB/m6PmlOBFjBADkuf3Ti/K07mdCKXEHbbBJCQuma6OD4V1QD27OuSYbROfBuGCKj\nPmdvant+DE2dRPX+qs0bT5CetcNtfag5D7qUkv+VuzfMVr3pXZrSHDyltq++L/bh\nnPV547lhEA0DTPiQL0G1FPOStPisvih1iNukDaoqjcATgmt1ueRbuKR6PQi+HGba\nIfXVxP9FnduJKkYzFFOlqfAP11T/wL/qQZpXmhhnM1VRKnak/4847VGzW5yhB1Mv\nP6b0H/9RAgMBAAECggEABgbp17RmtafcX5HKNjFm29PODyAvvWTGZs99DhyZ5CHE\nxaV3oQA9NqoRgID9sfpso5sg+Jd19sWh5pd1gheANk2c5Y79NngbQU2OZ1DSRD9V\njFeBbX6xPxUjTn9QLSu5D4yzHV9tnz8316p0ZawMm11LaJpNzR+lWwGGOeT4DhgW\ngWERyB9rUIxqEqC9SS04dKI0+J+Q1AZv+kzYBur7qUMyyEBbNlFl3VHbpVV1f20k\nZk80hGbgDXO1d27BQHTedgjxLEOWTaDs92KL6ChRBha5bdwq3jff6HoM7FtN5Kk+\nK/PlOrbNxWcgyst1Sd0CMBEYXsN3MrW6A82K3deRswKBgQDI1GMTRUUO1j/qfWd/\nxFvPcKv9XOj0WWUfeklGv/TMvP8qnu56nQukO3rmavIiHWQaCZUm9OKjr6h5um72\nMF+b9y65vc7CtUUQKi2oiZ59sUymn2LroBH7+SspgFHerUID3p3NllNCgnAeTPvS\n247+mKiMnEq7+80vrxUNxvOWJwKBgQDBayyMLmwSarR1m6B2jUPZyR+2HURzoMmY\ncQf1wKLM0c8GFCQx/xOqc3uRnoPNHTIt8ep6jcJDVnvDGNIXg5dUDkDcgWI8iiu9\nQpBwoZqUrvGEtZDulwA7akhSDRkIP5mdXCikQpv32bFQXQJk6jUcwXKSEIrXarRr\nwzalGoLhxwKBgCkdWh8y2j18XV97RvogUA966KsZH1QPDSXRmjjSyaI0uySVnwsZ\nJa38w19y25liXQD7nz53egK6zooFQfxC0QAULcu28SJpi/cQO4K6kej3qFKgZNcK\nUUQ9sblwXNJytAYoyDOzp94A6EU7y35SlsbGqBMJWD9+AHbXqD7G0U2XAoGAThaR\n7qqTUUApSU4ik5pm6Vds6R6Z00D4AwanWw2B7MVMGr0o+9JqwydKnTjtJ3OBHdGM\nhBwVcRBKeTLdJ0cmYnY6s4u8+IokLI3iOMbV3O9gbN7M+7aVDmfTeOT21UCwKTra\n4a5Ov9rw3mwemlWASfLD6bqqA1x+KP+wYSn562MCgYEArX/+eFiGJeS+dp+sxVk5\nudmu3arAt1Ulpfu7sXkWcrFYcUSbZ8fc8IiZc2JrPDnF6mSZrV4vps9oFhbTgBT4\njXgbAIxl2/fWSGdHeBDwbBPvXcUK2ERps1FqaHk9EnEcp3GWiY0MP2DR8UJ+QQyd\nAoanVUT+bSNeyGUvwQEghuA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "medsafe-cycle-api-ml@medsafe-cycle.iam.gserviceaccount.com",
+  "client_id": "118156275399354705015",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medsafe-cycle-api-ml%40medsafe-cycle.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
